@@ -1,0 +1,59 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./app/signin-up/style.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.box {
+  width: 700px;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: whitesmoke;
+  color: black;
+}
+
+body{
+  -webkit-text-decoration: solid black;
+          text-decoration: solid black;
+}
+
+.title-text {
+  text-align: center;
+  font-size: 54px;
+  margin-bottom: 20px;
+}
+
+.headings {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.bottomtext{
+  padding-bottom: 10px;
+  
+
+}
+
